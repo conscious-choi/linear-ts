@@ -1,6 +1,6 @@
 /* ----------------------------------------------------
-Copyright by 2022 Jonathan Choi. All Rights Reserved.
-linear-ts: https://www.github.com/jonychoi/linear-ts
+Copyright by 2023 S. Choi. All Rights Reserved.
+linear-ts: https://www.github.com/virochana/linear-ts
 Distributed under the MIT License.
 ----------------------------------------------------*/
 
